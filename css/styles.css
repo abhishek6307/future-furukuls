@@ -11787,7 +11787,7 @@ padding-left: 76px;
       box-shadow: 5px 6px #747070;
 }
 .vdo-feed{
-      /* padding: 5px 65px; */
+      padding:5px 17px;
       font-size: 20px;
 }
 .border-start-4{
@@ -11796,8 +11796,8 @@ padding-left: 76px;
   border-left: 4px solid rgb(199, 186, 186);
 }
 .below-video-text{
-font-size: 20px;
-margin-left: 10px;
+font-size: 13px;
+margin-left: 5px;
 }
 @media only screen and (max-width: 992px) {
   .below-video {
