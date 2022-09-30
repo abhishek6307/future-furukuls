@@ -11708,8 +11708,7 @@ body {
 
 
 body {
-  background-color: #253c3c87;
-  ;
+  background-color: white;
 }
 .text-primary{
   color: darkblue;
@@ -11750,7 +11749,7 @@ nav {
   background-color: #ffffff;
 color: black;
 border: 1px solid rgb(170, 170, 192);
-box-shadow: 5px #888888;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 255, 0.19);
 border-radius: 3%;
 
 }
@@ -11784,7 +11783,7 @@ padding-left: 76px;
 .sb-sidenav-menu{
       background-color:white;
       border-radius: 3%;
-      box-shadow: 5px 6px #747070;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 255, 0.19);
 }
 .vdo-feed{
       padding:5px 17px;
